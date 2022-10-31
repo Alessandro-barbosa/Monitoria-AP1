@@ -2,7 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-    int tam = 5, vetor[tam], busca = 0, contbusca = 0;
+    int tam = 10, vetor[tam], busca = 0, contbusca = 0;
 
     for (int i = 0; i < tam; i++)
     {
