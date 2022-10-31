@@ -2,7 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-    int tam = 5, comparador = 0;
+    int tam = 10, comparador = 0;
     int vetor1[tam], vetor2[tam];
 
     printf("Insira valores para o primeiro vetor: \n");
