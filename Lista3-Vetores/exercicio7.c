@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(int argc, char const *argv[])
 {
-    int tam = 5, vetor1[tam], vetor2[tam], vetor3[tam];
+    int tam = 4, vetor1[tam], vetor2[tam], vetor3[tam];
     printf("Valores para o primeiro vetor: \n");
     for (int i = 0; i < tam; i++)
     {
