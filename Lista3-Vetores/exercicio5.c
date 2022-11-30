@@ -2,11 +2,11 @@
 
 int main(int argc, char const *argv[])
 {
-    int tam = 7, vetor[tam];
+    int tam = 5, vetor[tam];
 
     for (int i = 0; i < tam; i++)
     {
-        printf("Valor: ");
+        printf("%d valor: ", i+1);
         scanf("%d", &vetor[i]);
     }
     int x = 0, contador2 = 0, contador3 = 0, contador2e3 = 0;
